@@ -13,7 +13,7 @@
     "eslint": "^6.6.0",
     "eslint-plugin-jest": "^23.0.3",
     "jest": "^24.9.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.27"
   }
 }
